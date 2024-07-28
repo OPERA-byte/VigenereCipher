@@ -10,34 +10,35 @@ For example, if KRYPTOS is the keyword, the resulting base alphabet would be as 
 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
 
-<table>
-  <tr><td><small>01</small></td><td><small>K RYPTOSABCDEFGHIJLMNQUVWXZ</small></td></tr>
-  <tr><td><small>02</small></td><td><small>R YPTOSABCDEFGHIJLMNQUVWXZK</small></td></tr>
-  <tr><td><small>03</small></td><td><small>Y PTOSABCDEFGHIJLMNQUVWXZKR</small></td></tr>
-  <tr><td><small>04</small></td><td><small>P TOSABCDEFGHIJLMNQUVWXZKRY</small></td></tr>
-  <tr><td><small>05</small></td><td><small>T OSABCDEFGHIJLMNQUVWXZKRYP</small></td></tr>
-  <tr><td><small>06</small></td><td><small>O SABCDEFGHIJLMNQUVWXZKRYPT</small></td></tr>
-  <tr><td><small>07</small></td><td><small>S ABCDEFGHIJLMNQUVWXZKRYPTO</small></td></tr>
-  <tr><td><small>08</small></td><td><small>A BCDEFGHIJLMNQUVWXZKRYPTOS</small></td></tr>
-  <tr><td><small>09</small></td><td><small>B CDEFGHIJLMNQUVWXZKRYPTOSA</small></td></tr>
-  <tr><td><small>10</small></td><td><small>C DEFGHIJLMNQUVWXZKRYPTOSAB</small></td></tr>
-  <tr><td><small>11</small></td><td><small>D EFGHIJLMNQUVWXZKRYPTOSABC</small></td></tr>
-  <tr><td><small>12</small></td><td><small>E FGHIJLMNQUVWXZKRYPTOSABCD</small></td></tr>
-  <tr><td><small>13</small></td><td><small>F GHIJLMNQUVWXZKRYPTOSABCDE</small></td></tr>
-  <tr><td><small>14</small></td><td><small>G HIJLMNQUVWXZKRYPTOSABCDEF</small></td></tr>
-  <tr><td><small>15</small></td><td><small>H IJLMNQUVWXZKRYPTOSABCDEFG</small></td></tr>
-  <tr><td><small>16</small></td><td><small>I JLMNQUVWXZKRYPTOSABCDEFGH</small></td></tr>
-  <tr><td><small>17</small></td><td><small>J LMNQUVWXZKRYPTOSABCDEFGHI</small></td></tr>
-  <tr><td><small>18</small></td><td><small>L MNQUVWXZKRYPTOSABCDEFGHIJ</small></td></tr>
-  <tr><td><small>19</small></td><td><small>M NQUVWXZKRYPTOSABCDEFGHIJL</small></td></tr>
-  <tr><td><small>20</small></td><td><small>N QUVWXZKRYPTOSABCDEFGHIJLM</small></td></tr>
-  <tr><td><small>21</small></td><td><small>Q UVWXZKRYPTOSABCDEFGHIJLMN</small></td></tr>
-  <tr><td><small>22</small></td><td><small>U VWXZKRYPTOSABCDEFGHIJLMNQ</small></td></tr>
-  <tr><td><small>23</small></td><td><small>V WXZKRYPTOSABCDEFGHIJLMNQU</small></td></tr>
-  <tr><td><small>24</small></td><td><small>W XZKRYPTOSABCDEFGHIJLMNQUV</small></td></tr>
-  <tr><td><small>25</small></td><td><small>X ZKRYPTOSABCDEFGHIJLMNQUVW</small></td></tr>
-  <tr><td><small>26</small></td><td><small>Z KRYPTOSABCDEFGHIJLMNQUVWX</small></td></tr>
-</table>
+<p style="font-size: smaller; white-space: pre;"> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01 K RYPTOSABCDEFGHIJLMNQUVWXZ
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02 R YPTOSABCDEFGHIJLMNQUVWXZK
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03 Y PTOSABCDEFGHIJLMNQUVWXZKR
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04 P TOSABCDEFGHIJLMNQUVWXZKRY
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05 T OSABCDEFGHIJLMNQUVWXZKRYP
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06 O SABCDEFGHIJLMNQUVWXZKRYPT
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07 S ABCDEFGHIJLMNQUVWXZKRYPTO
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08 A BCDEFGHIJLMNQUVWXZKRYPTOS
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09 B CDEFGHIJLMNQUVWXZKRYPTOSA
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 C DEFGHIJLMNQUVWXZKRYPTOSAB
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 D EFGHIJLMNQUVWXZKRYPTOSABC
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 E FGHIJLMNQUVWXZKRYPTOSABCD
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13 F GHIJLMNQUVWXZKRYPTOSABCDE
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14 G HIJLMNQUVWXZKRYPTOSABCDEF
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15 H IJLMNQUVWXZKRYPTOSABCDEFG
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16 I JLMNQUVWXZKRYPTOSABCDEFGH
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17 J LMNQUVWXZKRYPTOSABCDEFGHI
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 L MNQUVWXZKRYPTOSABCDEFGHIJ
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 M NQUVWXZKRYPTOSABCDEFGHIJL
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 N QUVWXZKRYPTOSABCDEFGHIJLM
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 Q UVWXZKRYPTOSABCDEFGHIJLMN
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 U VWXZKRYPTOSABCDEFGHIJLMNQ
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23 V WXZKRYPTOSABCDEFGHIJLMNQU
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24 W XZKRYPTOSABCDEFGHIJLMNQUV
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 X ZKRYPTOSABCDEFGHIJLMNQUVW
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;26 Z KRYPTOSABCDEFGHIJLMNQUVWX
+</p>
+
 
 
                                                                           
