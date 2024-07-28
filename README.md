@@ -11,21 +11,17 @@ For example, if KRYPTOS is the keyword, the resulting base alphabet would be as 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
 
 
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                    
+                                                                                              
 
 
 
