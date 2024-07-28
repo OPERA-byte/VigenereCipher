@@ -1,3 +1,17 @@
+/*
+ * Copyright (c) 2024 Fernando Guadarrama
+ *
+ * This code is provided for free use. You are free to use, copy, modify, or distribute
+ * this code in any way you like. However, this code is provided "as is" without any warranties
+ * or guarantees. The copyright holder is not liable for any issues or damages arising from
+ * the use of this code.
+ *
+ * For inquiries, you can contact f.guadarrama16@outlook.com
+ *
+ * This code is part of a project inspired by LEMINO’s content on YouTube.
+ *      Check Out: https://youtu.be/jVpsLMCIB0Y?si=haevvMONuUgkI6_0
+ */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
