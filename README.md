@@ -39,7 +39,8 @@ Next, this base alphabet is used to create an encryption table, which we refer t
                                                                           
                                                                     
                                                                                               
-
+                                                                        Frail
+                                                                        
 
 
 
