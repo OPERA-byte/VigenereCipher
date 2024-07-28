@@ -10,57 +10,35 @@ For example, if KRYPTOS is the keyword, the resulting base alphabet would be as 
 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
 
- 01 K RYPTOSABCDEFGHIJLMNQUVWXZ
- 
- 02 R YPTOSABCDEFGHIJLMNQUVWXZK
- 
- 03 Y PTOSABCDEFGHIJLMNQUVWXZKR
- 
- 04 P TOSABCDEFGHIJLMNQUVWXZKRY
- 
- 05 T OSABCDEFGHIJLMNQUVWXZKRYP
- 
- 06 O SABCDEFGHIJLMNQUVWXZKRYPT
- 
- 07 S ABCDEFGHIJLMNQUVWXZKRYPTO
- 
- 08 A BCDEFGHIJLMNQUVWXZKRYPTOS
- 
- 09 B CDEFGHIJLMNQUVWXZKRYPTOSA
- 
- 10 C DEFGHIJLMNQUVWXZKRYPTOSAB
- 
- 11 D EFGHIJLMNQUVWXZKRYPTOSABC
- 
- 12 E FGHIJLMNQUVWXZKRYPTOSABCD
- 
- 13 F GHIJLMNQUVWXZKRYPTOSABCDE
- 
- 14 G HIJLMNQUVWXZKRYPTOSABCDEF
- 
- 15 H IJLMNQUVWXZKRYPTOSABCDEFG
- 
- 16 I JLMNQUVWXZKRYPTOSABCDEFGH
- 
- 17 J LMNQUVWXZKRYPTOSABCDEFGHI
- 
- 18 L MNQUVWXZKRYPTOSABCDEFGHIJ
- 
- 19 M NQUVWXZKRYPTOSABCDEFGHIJL
- 
- 20 N QUVWXZKRYPTOSABCDEFGHIJLM
- 
- 21 Q UVWXZKRYPTOSABCDEFGHIJLMN
- 
- 22 U VWXZKRYPTOSABCDEFGHIJLMNQ
- 
- 23 V WXZKRYPTOSABCDEFGHIJLMNQU
- 
- 24 W XZKRYPTOSABCDEFGHIJLMNQUV
- 
- 25 X ZKRYPTOSABCDEFGHIJLMNQUVW
- 
- 26 Z KRYPTOSABCDEFGHIJLMNQUVWX
+<table>
+  <tr><td><small>01</small></td><td><small>K RYPTOSABCDEFGHIJLMNQUVWXZ</small></td></tr>
+  <tr><td><small>02</small></td><td><small>R YPTOSABCDEFGHIJLMNQUVWXZK</small></td></tr>
+  <tr><td><small>03</small></td><td><small>Y PTOSABCDEFGHIJLMNQUVWXZKR</small></td></tr>
+  <tr><td><small>04</small></td><td><small>P TOSABCDEFGHIJLMNQUVWXZKRY</small></td></tr>
+  <tr><td><small>05</small></td><td><small>T OSABCDEFGHIJLMNQUVWXZKRYP</small></td></tr>
+  <tr><td><small>06</small></td><td><small>O SABCDEFGHIJLMNQUVWXZKRYPT</small></td></tr>
+  <tr><td><small>07</small></td><td><small>S ABCDEFGHIJLMNQUVWXZKRYPTO</small></td></tr>
+  <tr><td><small>08</small></td><td><small>A BCDEFGHIJLMNQUVWXZKRYPTOS</small></td></tr>
+  <tr><td><small>09</small></td><td><small>B CDEFGHIJLMNQUVWXZKRYPTOSA</small></td></tr>
+  <tr><td><small>10</small></td><td><small>C DEFGHIJLMNQUVWXZKRYPTOSAB</small></td></tr>
+  <tr><td><small>11</small></td><td><small>D EFGHIJLMNQUVWXZKRYPTOSABC</small></td></tr>
+  <tr><td><small>12</small></td><td><small>E FGHIJLMNQUVWXZKRYPTOSABCD</small></td></tr>
+  <tr><td><small>13</small></td><td><small>F GHIJLMNQUVWXZKRYPTOSABCDE</small></td></tr>
+  <tr><td><small>14</small></td><td><small>G HIJLMNQUVWXZKRYPTOSABCDEF</small></td></tr>
+  <tr><td><small>15</small></td><td><small>H IJLMNQUVWXZKRYPTOSABCDEFG</small></td></tr>
+  <tr><td><small>16</small></td><td><small>I JLMNQUVWXZKRYPTOSABCDEFGH</small></td></tr>
+  <tr><td><small>17</small></td><td><small>J LMNQUVWXZKRYPTOSABCDEFGHI</small></td></tr>
+  <tr><td><small>18</small></td><td><small>L MNQUVWXZKRYPTOSABCDEFGHIJ</small></td></tr>
+  <tr><td><small>19</small></td><td><small>M NQUVWXZKRYPTOSABCDEFGHIJL</small></td></tr>
+  <tr><td><small>20</small></td><td><small>N QUVWXZKRYPTOSABCDEFGHIJLM</small></td></tr>
+  <tr><td><small>21</small></td><td><small>Q UVWXZKRYPTOSABCDEFGHIJLMN</small></td></tr>
+  <tr><td><small>22</small></td><td><small>U VWXZKRYPTOSABCDEFGHIJLMNQ</small></td></tr>
+  <tr><td><small>23</small></td><td><small>V WXZKRYPTOSABCDEFGHIJLMNQU</small></td></tr>
+  <tr><td><small>24</small></td><td><small>W XZKRYPTOSABCDEFGHIJLMNQUV</small></td></tr>
+  <tr><td><small>25</small></td><td><small>X ZKRYPTOSABCDEFGHIJLMNQUVW</small></td></tr>
+  <tr><td><small>26</small></td><td><small>Z KRYPTOSABCDEFGHIJLMNQUVWX</small></td></tr>
+</table>
+
 
                                                                           
                                                                         
