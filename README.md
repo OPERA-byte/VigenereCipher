@@ -10,6 +10,6 @@ For example, if KRYPTOS is the keyword, the resulting base alphabet would be as 
 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
 
-                                                                        <img width="248" alt="KRYPTOS" src="https://github.com/user-attachments/assets/d0ce4a1a-7aa6-4c28-9f64-e46d136a6abb">
+<img width="248" alt="KRYPTOS" src="https://github.com/user-attachments/assets/d0ce4a1a-7aa6-4c28-9f64-e46d136a6abb">
 
             
