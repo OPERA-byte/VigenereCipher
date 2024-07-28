@@ -9,4 +9,7 @@ First, a keyword (referred to as a dictionary key) is chosen to populate the beg
 For example, if KRYPTOS is the keyword, the resulting base alphabet would be as follows: "KRYPTOSABCDEFGHIJLMNQUVWXZ". 
 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
+
+            <img width="248" alt="KRYPTOS" src="https://github.com/user-attachments/assets/eea1c2e9-1779-4c4f-8118-d86da935c422">
+
             
