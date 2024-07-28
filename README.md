@@ -10,21 +10,38 @@ For example, if KRYPTOS is the keyword, the resulting base alphabet would be as 
 
 Next, this base alphabet is used to create an encryption table, which we refer to as the dictionary. The base alphabet is reformatted so that the first letter of the alphabet is appended to the end of the dictionary, and this process is repeated for every character. The result is a 26 x 26 dictionary we use to encode desired text. 
 
-
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                          KRYPTOSABCDEFGHIJLMNQUVWXZ
+            01K RYPTOSABCDEFGHIJLMNQUVWXZ
+            02R YPTOSABCDEFGHIJLMNQUVWXZK
+            03Y PTOSABCDEFGHIJLMNQUVWXZKR
+            04P TOSABCDEFGHIJLMNQUVWXZKRY
+            05T OSABCDEFGHIJLMNQUVWXZKRYP
+            06O SABCDEFGHIJLMNQUVWXZKRYPT
+            07S ABCDEFGHIJLMNQUVWXZKRYPTO
+            08A BCDEFGHIJLMNQUVWXZKRYPTOS
+            09B CDEFGHIJLMNQUVWXZKRYPTOSA
+            10C DEFGHIJLMNQUVWXZKRYPTOSAB
+            11D EFGHIJLMNQUVWXZKRYPTOSABC
+            12E FGHIJLMNQUVWXZKRYPTOSABCD
+            13F GHIJLMNQUVWXZKRYPTOSABCDE
+            14G HIJLMNQUVWXZKRYPTOSABCDEF
+            15H IJLMNQUVWXZKRYPTOSABCDEFG
+            16I JLMNQUVWXZKRYPTOSABCDEFGH
+            17J LMNQUVWXZKRYPTOSABCDEFGHI
+            18L MNQUVWXZKRYPTOSABCDEFGHIJ
+            19M NQUVWXZKRYPTOSABCDEFGHIJL
+            20N QUVWXZKRYPTOSABCDEFGHIJLM
+            21Q UVWXZKRYPTOSABCDEFGHIJLMN
+            22U VWXZKRYPTOSABCDEFGHIJLMNQ
+            23V WXZKRYPTOSABCDEFGHIJLMNQU
+            24W XZKRYPTOSABCDEFGHIJLMNQUV
+            25X ZKRYPTOSABCDEFGHIJLMNQUVW
+            26Z KRYPTOSABCDEFGHIJLMNQUVWX
+                                                                          
                                                                     
                                                                                               
 
 
 
-<img width="248" alt="KRYPTOS" src="https://github.com/user-attachments/assets/d0ce4a1a-7aa6-4c28-9f64-e46d136a6abb">  The first character of every alphabet was isolated and a number was added for better readability. 
+
 
             
