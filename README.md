@@ -31,7 +31,7 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 17 J LMNQUVWXZKRYPTOSABCDEFGHI               <strong>complex keystreams enhance the encryption</strong> and make it more difficult to 
 18 L MNQUVWXZKRYPTOSABCDEFGHIJ               crack.
 19 M NQUVWXZKRYPTOSABCDEFGHIJL
-20 N QUVWXZKRYPTOSABCDEFGHIJLM
+20 N QUVWXZKRYPTOSABCDEFGHIJLM               Now, we choose plaintext we want to encrypt.
 21 Q UVWXZKRYPTOSABCDEFGHIJLMN
 22 U VWXZKRYPTOSABCDEFGHIJLMNQ
 23 V WXZKRYPTOSABCDEFGHIJLMNQU
