@@ -69,7 +69,7 @@ encoded character.                                                              
 Encoding our character yields <strong>"S"</strong>.                                                15 H IJLMNQUVWXZKRY<mark style="background-color: red;">P</mark>TOSABCDEFG                
                                                                                    16 I JLMNQUVWXZKRYP<mark style="background-color: red;">T</mark>OSABCDEFGH                
 We do this process forevery letter in the plaintext to obtain our                  17 J LMNQUVWXZKRYPT<mark style="background-color: red;">O</mark>SABCDEFGHI                
-encoded text, we call this text ciphertext.                              <mark style="background-color: red;">18 L MNQUVWXZKRYPTOS</mark>ABCDEFGHIJ               
+encoded text, we call this text ciphertext.                                            <mark style="background-color: red;">18 L MNQUVWXZKRYPTOS</mark>ABCDEFGHIJ               
                                                                                    19 M NQUVWXZKRYPTOSABCDEFGHIJL
                                                                                    20 N QUVWXZKRYPTOSABCDEFGHIJLM               
                                                                                    21 Q UVWXZKRYPTOSABCDEFGHIJLMN
