@@ -40,6 +40,7 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 26 Z KRYPTOSABCDEFGHIJLMNQUVWX
 </pre>
 </p>
+#How to encode plaintext
 
 
 
