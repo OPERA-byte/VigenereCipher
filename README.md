@@ -63,7 +63,7 @@ represents our vertical index.                                                  
                                                                                    15 H IJLMNQUVWXZKRYPTOSABCDEFG                
                                                                                    16 I JLMNQUVWXZKRYPTOSABCDEFGH                
                                                                                    17 J LMNQUVWXZKRYPTOSABCDEFGHI                
-                                                                                   <mark style="background-color: green;">18 L MNQUVWXZKRYPTOSABCDEFGHIJ</mark>               
+                                                                                   <mark style="background-color: red;">18 L MNQUVWXZKRYPTOSABCDEFGHIJ</mark>               
                                                                                    19 M NQUVWXZKRYPTOSABCDEFGHIJL
                                                                                    20 N QUVWXZKRYPTOSABCDEFGHIJLM               
                                                                                    21 Q UVWXZKRYPTOSABCDEFGHIJLMN
