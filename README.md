@@ -24,7 +24,7 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 10 C DEFGHIJLMNQUVWXZKRYPTOSAB               the encryption process. Think of the keystream as the key that defines how 
 11 D EFGHIJLMNQUVWXZKRYPTOSABC               much to shift every letter of the desired plaintext.
 12 E FGHIJLMNQUVWXZKRYPTOSABCD
-13 F GHIJLMNQUVWXZKRYPTOSABCDE               Let our <span style="color: red;">keystream</span> be <strong>LEMON</strong>. 
+13 F GHIJLMNQUVWXZKRYPTOSABCDE               Let our <span style="color: gold;">keystream</span> be <strong>LEMON</strong>. 
 14 G HIJLMNQUVWXZKRYPTOSABCDEF
 15 H IJLMNQUVWXZKRYPTOSABCDEFG
 16 I JLMNQUVWXZKRYPTOSABCDEFGH
