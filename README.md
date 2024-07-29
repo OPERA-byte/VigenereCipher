@@ -13,7 +13,7 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
 01 K RYPTOSABCDEFGHIJLMNQUVWXZ
-02 R YPTOSABCDEFGHIJLMNQUVWXZK               <strong>Base</strong> Alphabet: [KRYPTOSABCDEFGHIJLMNQUVWXZ]
+02 R YPTOSABCDEFGHIJLMNQUVWXZK               <strong>Base Alphabet</strong>: [KRYPTOSABCDEFGHIJLMNQUVWXZ]
 03 Y PTOSABCDEFGHIJLMNQUVWXZKR
 04 P TOSABCDEFGHIJLMNQUVWXZKRY               The first letter of every alphabet was isolated and numbers were added   
 05 T OSABCDEFGHIJLMNQUVWXZKRYP               for better readability. 
