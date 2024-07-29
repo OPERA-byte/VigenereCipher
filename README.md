@@ -13,18 +13,18 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
 01 K RYPTOSABCDEFGHIJLMNQUVWXZ
-02 R YPTOSABCDEFGHIJLMNQUVWXZK                Base Alphabet: [KRYPTOSABCDEFGHIJLMNQUVWXZ]
+02 R YPTOSABCDEFGHIJLMNQUVWXZK               Base Alphabet: [KRYPTOSABCDEFGHIJLMNQUVWXZ]
 03 Y PTOSABCDEFGHIJLMNQUVWXZKR
-04 P TOSABCDEFGHIJLMNQUVWXZKRY                The first letter of every alphabet was isolated and numbers were added   
-05 T OSABCDEFGHIJLMNQUVWXZKRYP                for better readability. 
+04 P TOSABCDEFGHIJLMNQUVWXZKRY               The first letter of every alphabet was isolated and numbers were added   
+05 T OSABCDEFGHIJLMNQUVWXZKRYP               for better readability. 
 06 O SABCDEFGHIJLMNQUVWXZKRYPT           
 07 S ABCDEFGHIJLMNQUVWXZKRYPTO
-08 A BCDEFGHIJLMNQUVWXZKRYPTOS                Next, you choose a phrase or keyword; this will function as the keystream.  
-09 B CDEFGHIJLMNQUVWXZKRYPTOSA                The keystream defines the index in the vertical direction and is crucial in
-10 C DEFGHIJLMNQUVWXZKRYPTOSAB                the encryption process. Think of the keystream as the key that defines how 
-11 D EFGHIJLMNQUVWXZKRYPTOSABC                much to shift every letter of the desired plaintext.
+08 A BCDEFGHIJLMNQUVWXZKRYPTOS               Next, you choose a phrase or keyword; this will function as the keystream.  
+09 B CDEFGHIJLMNQUVWXZKRYPTOSA               The keystream defines the index in the vertical direction and is crucial in
+10 C DEFGHIJLMNQUVWXZKRYPTOSAB               the encryption process. Think of the keystream as the key that defines how 
+11 D EFGHIJLMNQUVWXZKRYPTOSABC               much to shift every letter of the desired plaintext.
 12 E FGHIJLMNQUVWXZKRYPTOSABCD
-13 F GHIJLMNQUVWXZKRYPTOSABCDE                Let our keystream be LEMON. 
+13 F GHIJLMNQUVWXZKRYPTOSABCDE               Let our keystream be LEMON. 
 14 G HIJLMNQUVWXZKRYPTOSABCDEF
 15 H IJLMNQUVWXZKRYPTOSABCDEFG
 16 I JLMNQUVWXZKRYPTOSABCDEFGH
