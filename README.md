@@ -54,7 +54,7 @@ Reformated Keystream:                                                           
 <strong>"LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE"</strong>                 06 O SABCDEFGHIJLMNQUVWXZKRYPT           
                                                                                    07 S ABCDEFGHIJLMNQUVWXZKRYPTO
 We get the first letter of our keystream in this case <strong>"L"</strong>, this                        08 A BCDEFGHIJLMNQUVWXZKRYPTOS                 
-represents our vertical index                                                      09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
+represents our vertical index.                                                       09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
                                                                                    10 C DEFGHIJLMNQUVWXZKRYPTOSAB               
                                                                                    11 D EFGHIJLMNQUVWXZKRYPTOSABC               
                                                                                    12 E FGHIJLMNQUVWXZKRYPTOSABCD
@@ -63,7 +63,7 @@ represents our vertical index                                                   
                                                                                    15 H IJLMNQUVWXZKRYPTOSABCDEFG                
                                                                                    16 I JLMNQUVWXZKRYPTOSABCDEFGH                
                                                                                    17 J LMNQUVWXZKRYPTOSABCDEFGHI                
-                                                                                   18 L MNQUVWXZKRYPTOSABCDEFGHIJ               
+                                                                                   <mark style="background-color: green;">18 L MNQUVWXZKRYPTOSABCDEFGHIJ</mark>               
                                                                                    19 M NQUVWXZKRYPTOSABCDEFGHIJL
                                                                                    20 N QUVWXZKRYPTOSABCDEFGHIJLM               
                                                                                    21 Q UVWXZKRYPTOSABCDEFGHIJLMN
