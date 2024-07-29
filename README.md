@@ -19,12 +19,12 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 05 T OSABCDEFGHIJLMNQUVWXZKRYP                  for better readability. 
 06 O SABCDEFGHIJLMNQUVWXZKRYPT           
 07 S ABCDEFGHIJLMNQUVWXZKRYPTO
-08 A BCDEFGHIJLMNQUVWXZKRYPTOS
-09 B CDEFGHIJLMNQUVWXZKRYPTOSA
-10 C DEFGHIJLMNQUVWXZKRYPTOSAB
-11 D EFGHIJLMNQUVWXZKRYPTOSABC
+08 A BCDEFGHIJLMNQUVWXZKRYPTOS                  Next, you choose a phrase or keyword; this will function as the keystream.  
+09 B CDEFGHIJLMNQUVWXZKRYPTOSA                  The keystream defines the index in the vertical direction and is crucial in
+10 C DEFGHIJLMNQUVWXZKRYPTOSAB                  the encryption process. Think of the keystream as the key that defines how 
+11 D EFGHIJLMNQUVWXZKRYPTOSABC                  much to shift every letter of the desired plaintext.
 12 E FGHIJLMNQUVWXZKRYPTOSABCD
-13 F GHIJLMNQUVWXZKRYPTOSABCDE
+13 F GHIJLMNQUVWXZKRYPTOSABCDE                  Let our keystream be LEMON. 
 14 G HIJLMNQUVWXZKRYPTOSABCDEF
 15 H IJLMNQUVWXZKRYPTOSABCDEFG
 16 I JLMNQUVWXZKRYPTOSABCDEFGH
