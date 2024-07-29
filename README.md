@@ -72,7 +72,7 @@ We do this process for every letter in the plaintext to obtain our              
 encoded text, we call this text ciphertext.                                        <mark style="background-color: red;">18 L MNQUVWXZKRYPTOS</mark>ABCDEFGHIJ               
                                                                                    19 M NQUVWXZKRYPTOSABCDEFGHIJL
 Our resulting ciphertext is:                                                       20 N QUVWXZKRYPTOSABCDEFGHIJLM               
-<strong>"SPUDZWKKVT SL Z YXMU VD RY WWKFR JEVU ST VNT RKRCBVTZSU VW TDXBL"</strong>          21 Q UVWXZKRYPTOSABCDEFGHIJLMN
+<strong>"SPUDZWKKVT SL Z YXMU VD RY WWKFR JEVU ST VNT RKRCBVTZSU VW TDXBL"</strong>                21 Q UVWXZKRYPTOSABCDEFGHIJLMN
                                                                                    22 U VWXZKRYPTOSABCDEFGHIJLMNQ
                                                                                    23 V WXZKRYPTOSABCDEFGHIJLMNQU
                                                                                    24 W XZKRYPTOSABCDEFGHIJLMNQUV
