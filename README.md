@@ -46,9 +46,9 @@ Now that we have our dictionary set up and our keystream prepared, we can start 
 
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
-Keystream = <strong>"LEMON"</strong>                                                                    01 K RYPTOSABCDEFGHIJLMNQUVWXZ
+Keystream = <strong>"LEMON"</strong>                                                                01 K RYPTOSABCDEFGHIJLMNQUVWXZ
 PlainText:                                                                         02 R YPTOSABCDEFGHIJLMNQUVWXZK
-<strong>"Impossible is a word to be found only in the dictionary of fools"</strong>                   03 Y PTOSABCDEFGHIJLMNQUVWXZKR
+<strong>"Impossible is a word to be found only in the dictionary of fools"</strong>                03 Y PTOSABCDEFGHIJLMNQUVWXZKR
                                                                                    04 P TOSABCDEFGHIJLMNQUVWXZKRY                  
 Reformated Keystream:                                                              05 T OSABCDEFGHIJLMNQUVWXZKRYP                
 LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE                   06 O SABCDEFGHIJLMNQUVWXZKRYPT           
