@@ -25,10 +25,10 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 11 D EFGHIJLMNQUVWXZKRYPTOSABC               much to shift every letter of the desired plaintext.
 12 E FGHIJLMNQUVWXZKRYPTOSABCD
 13 F GHIJLMNQUVWXZKRYPTOSABCDE               Let our keystream be <strong>LEMON</strong>. 
-14 G HIJLMNQUVWXZKRYPTOSABCDEF
-15 H IJLMNQUVWXZKRYPTOSABCDEFG
-16 I JLMNQUVWXZKRYPTOSABCDEFGH
-17 J LMNQUVWXZKRYPTOSABCDEFGHI
+14 G HIJLMNQUVWXZKRYPTOSABCDEF               
+15 H IJLMNQUVWXZKRYPTOSABCDEFG               It is important to recognize that the keystream plays a significant role in 
+16 I JLMNQUVWXZKRYPTOSABCDEFGH               determining the quality of the encryption. In other words, longer and more 
+17 J LMNQUVWXZKRYPTOSABCDEFGHI               complex keystreams enhance the encryption and make it more difficult to crack.
 18 L MNQUVWXZKRYPTOSABCDEFGHIJ
 19 M NQUVWXZKRYPTOSABCDEFGHIJL
 20 N QUVWXZKRYPTOSABCDEFGHIJLM
