@@ -51,7 +51,7 @@ PlainText:                                                                      
 <strong>"Impossible is a word to be found only in the dictionary of fools"</strong>                 03 Y PTOSABCDEFGHIJ<mark style="background-color: red;">L</mark>MNQUVWXZKR
                                                                                    04 P TOSABCDEFGHIJL<mark style="background-color: red;">M</mark>NQUVWXZKRY                  
 Reformated Keystream:                                                              05 T OSABCDEFGHIJLM<mark style="background-color: red;">N</mark>QUVWXZKRYP                
-<strong>"LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE"</strong>                 06 O SABCDEFGHIJLMNQUVWXZKRYPT           
+<strong>"LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE"</strong>                 06 O SABCDEFGHIJLMN<mark style="background-color: red;">Q</mark>UVWXZKRYPT           
                                                                                    07 S ABCDEFGHIJLMNQUVWXZKRYPTO
 We get the first letter of our keystream in this case <strong>"L"</strong>, this                    08 A BCDEFGHIJLMNQUVWXZKRYPTOS                 
 represents our vertical index.                                                     09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
