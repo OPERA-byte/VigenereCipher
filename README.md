@@ -46,32 +46,32 @@ Now that we have our dictionary set up and our keystream prepared, we can start 
 
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
-     Keystream = <strong>"LEMON"</strong>                                               01 K RYPTOSABCDEFGHIJLMNQUVWXZ
-     PlainText:                                                                         02 R YPTOSABCDEFGHIJLMNQUVWXZK
-     Impossible is a word to be found only in the dictionary of fools                   03 Y PTOSABCDEFGHIJLMNQUVWXZKR
-                                                                                        04 P TOSABCDEFGHIJLMNQUVWXZKRY                  
-     Reformated Keystream:                                                              05 T OSABCDEFGHIJLMNQUVWXZKRYP                
-     LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE                   06 O SABCDEFGHIJLMNQUVWXZKRYPT           
-                                                                                        07 S ABCDEFGHIJLMNQUVWXZKRYPTO
-                                                                                        08 A BCDEFGHIJLMNQUVWXZKRYPTOS                 
-                                                                                        09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
-                                                                                        10 C DEFGHIJLMNQUVWXZKRYPTOSAB               
-                                                                                        11 D EFGHIJLMNQUVWXZKRYPTOSABC               
-                                                                                        12 E FGHIJLMNQUVWXZKRYPTOSABCD
-                                                                                        13 F GHIJLMNQUVWXZKRYPTOSABCDE                
-                                                                                        14 G HIJLMNQUVWXZKRYPTOSABCDEF               
-                                                                                        15 H IJLMNQUVWXZKRYPTOSABCDEFG                
-                                                                                        16 I JLMNQUVWXZKRYPTOSABCDEFGH                
-                                                                                        17 J LMNQUVWXZKRYPTOSABCDEFGHI                
-                                                                                        18 L MNQUVWXZKRYPTOSABCDEFGHIJ               
-                                                                                        19 M NQUVWXZKRYPTOSABCDEFGHIJL
-                                                                                        20 N QUVWXZKRYPTOSABCDEFGHIJLM               
-                                                                                        21 Q UVWXZKRYPTOSABCDEFGHIJLMN
-                                                                                        22 U VWXZKRYPTOSABCDEFGHIJLMNQ
-                                                                                        23 V WXZKRYPTOSABCDEFGHIJLMNQU
-                                                                                        24 W XZKRYPTOSABCDEFGHIJLMNQUV
-                                                                                        25 X ZKRYPTOSABCDEFGHIJLMNQUVW
-                                                                                        26 Z KRYPTOSABCDEFGHIJLMNQUVWX
+Keystream = <strong>"LEMON"</strong>                                               01 K RYPTOSABCDEFGHIJLMNQUVWXZ
+PlainText:                                                                         02 R YPTOSABCDEFGHIJLMNQUVWXZK
+Impossible is a word to be found only in the dictionary of fools                   03 Y PTOSABCDEFGHIJLMNQUVWXZKR
+                                                                                   04 P TOSABCDEFGHIJLMNQUVWXZKRY                  
+Reformated Keystream:                                                              05 T OSABCDEFGHIJLMNQUVWXZKRYP                
+LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE                   06 O SABCDEFGHIJLMNQUVWXZKRYPT           
+                                                                                   07 S ABCDEFGHIJLMNQUVWXZKRYPTO
+                                                                                   08 A BCDEFGHIJLMNQUVWXZKRYPTOS                 
+                                                                                   09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
+                                                                                   10 C DEFGHIJLMNQUVWXZKRYPTOSAB               
+                                                                                   11 D EFGHIJLMNQUVWXZKRYPTOSABC               
+                                                                                   12 E FGHIJLMNQUVWXZKRYPTOSABCD
+                                                                                   13 F GHIJLMNQUVWXZKRYPTOSABCDE                
+                                                                                   14 G HIJLMNQUVWXZKRYPTOSABCDEF               
+                                                                                   15 H IJLMNQUVWXZKRYPTOSABCDEFG                
+                                                                                   16 I JLMNQUVWXZKRYPTOSABCDEFGH                
+                                                                                   17 J LMNQUVWXZKRYPTOSABCDEFGHI                
+                                                                                   18 L MNQUVWXZKRYPTOSABCDEFGHIJ               
+                                                                                   19 M NQUVWXZKRYPTOSABCDEFGHIJL
+                                                                                   20 N QUVWXZKRYPTOSABCDEFGHIJLM               
+                                                                                   21 Q UVWXZKRYPTOSABCDEFGHIJLMN
+                                                                                   22 U VWXZKRYPTOSABCDEFGHIJLMNQ
+                                                                                   23 V WXZKRYPTOSABCDEFGHIJLMNQU
+                                                                                   24 W XZKRYPTOSABCDEFGHIJLMNQUV
+                                                                                   25 X ZKRYPTOSABCDEFGHIJLMNQUVW
+                                                                                   26 Z KRYPTOSABCDEFGHIJLMNQUVWX
 </pre>
 </p>
 
