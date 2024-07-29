@@ -42,6 +42,8 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 </p>
 
 # How to encode plaintext
+Now that we have our dictionary set up and our keystream prepared, we can start encoding. First, we choose our desired plaintext, which will define our horizontal movement during the encoding process. Let our plaintext be the phrase 'Impossible is a word to be found only in the dictionary of fools.' Next, we need to adjust our keystream so that its length matches the plaintext. In this case, our plaintext contains 49 characters, so our goal is to have a keystream of the same length. There are many ways to adjust a keystream; you can even create an algorithm yourself to reformat your keystream. The approach I will use is to simply re-append the letters of the keystream (in order) until the desired length is obtained. Any special characters will be ignored. For example, the keystream in our case will be reformatted to "LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE". 
+
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
                                                                                         01 K RYPTOSABCDEFGHIJLMNQUVWXZ
