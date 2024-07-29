@@ -58,7 +58,7 @@ represents our vertical index. The first letter of our plaintext                
 <strong>"I"</strong> is our horizontal index. To encode, we simply go down                          10 C DEFGHIJLMNQUVW<mark style="background-color: red;">X</mark>ZKRYPTOSAB               
 vertically until we encounter the first letter of our keystream <strong>"L".</strong>               11 D EFGHIJLMNQUVWX<mark style="background-color: red;">Z</mark>KRYPTOSABC               
 We then iterate horizontally until the position of our letter in row               12 E FGHIJLMNQUVWXZ<mark style="background-color: red;">K</mark>RYPTOSABCD
-corresponds with the column begging with the letter <strong>"I"</strong>                           13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
+corresponds with the column begging with the letter <strong>"I"</strong>                            13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
                                                                                    14 G HIJLMNQUVWXZKR<mark style="background-color: red;">Y</mark>PTOSABCDEF               
                                                                                    15 H IJLMNQUVWXZKRY<mark style="background-color: red;">P</mark>TOSABCDEFG                
                                                                                    16 I JLMNQUVWXZKRYP<mark style="background-color: red;">T</mark>OSABCDEFGH                
