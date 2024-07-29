@@ -57,8 +57,8 @@ We get the first letter of our keystream, <strong>"L"</strong>, this            
 represents our row position. The first letter of our plaintext,                   09 B CDEFGHIJLMNQUV<mark style="background-color: red;">W</mark>XZKRYPTOSA               
 <strong>"I,"</strong> serves as our column postition. To encode, we move                           10 C DEFGHIJLMNQUVW<mark style="background-color: red;">X</mark>ZKRYPTOSAB               
 vertically until we encounter our row position. Then move horizontally                11 D EFGHIJLMNQUVWX<mark style="background-color: red;">Z</mark>KRYPTOSABC               
-until we reach our column position                                                 12 E FGHIJLMNQUVWXZ<mark style="background-color: red;">K</mark>RYPTOSABCD
-corresponds with the column begging with the letter <strong>"I"</strong>                            13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
+until we reach our column position. The place of intersection is the               12 E FGHIJLMNQUVWXZ<mark style="background-color: red;">K</mark>RYPTOSABCD
+encoded character.                                                                 13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
                                                                                    14 G HIJLMNQUVWXZKR<mark style="background-color: red;">Y</mark>PTOSABCDEF               
                                                                                    15 H IJLMNQUVWXZKRY<mark style="background-color: red;">P</mark>TOSABCDEFG                
                                                                                    16 I JLMNQUVWXZKRYP<mark style="background-color: red;">T</mark>OSABCDEFGH                
