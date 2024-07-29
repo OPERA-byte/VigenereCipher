@@ -54,15 +54,15 @@ Reformated Keystream:                                                           
 <strong>"LEMONLEMON LE M ONLE MO NL EMONL EMON LE MON LEMONLEMON LE MONLE"</strong>                 06 O SABCDEFGHIJLMN<mark style="background-color: red;">Q</mark>UVWXZKRYPT           
                                                                                    07 S ABCDEFGHIJLMNQ<mark style="background-color: red;">U</mark>VWXZKRYPTO
 We get the first letter of our keystream in this case <strong>"L"</strong>, this                    08 A BCDEFGHIJLMNQUVWXZKRYPTOS                 
-represents our vertical index.                                                     09 B CDEFGHIJLMNQUVWXZKRYPTOSA               
-                                                                                   10 C DEFGHIJLMNQUVWXZKRYPTOSAB               
-                                                                                   11 D EFGHIJLMNQUVWXZKRYPTOSABC               
-                                                                                   12 E FGHIJLMNQUVWXZKRYPTOSABCD
-                                                                                   13 F GHIJLMNQUVWXZKRYPTOSABCDE                
-                                                                                   14 G HIJLMNQUVWXZKRYPTOSABCDEF               
-                                                                                   15 H IJLMNQUVWXZKRYPTOSABCDEFG                
-                                                                                   16 I JLMNQUVWXZKRYPTOSABCDEFGH                
-                                                                                   17 J LMNQUVWXZKRYPTOSABCDEFGHI                
+represents our vertical index.                                                     09 B CDEFGHIJLMNQUV<mark style="background-color: red;">W</mark>XZKRYPTOSA               
+                                                                                   10 C DEFGHIJLMNQUVW<mark style="background-color: red;">X</mark>ZKRYPTOSAB               
+                                                                                   11 D EFGHIJLMNQUVWX<mark style="background-color: red;">Z</mark>KRYPTOSABC               
+                                                                                   12 E FGHIJLMNQUVWXZ<mark style="background-color: red;">K</mark>RYPTOSABCD
+                                                                                   13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
+                                                                                   14 G HIJLMNQUVWXZKR<mark style="background-color: red;">Y</mark>PTOSABCDEF               
+                                                                                   15 H IJLMNQUVWXZKRY<mark style="background-color: red;">P</mark>TOSABCDEFG                
+                                                                                   16 I JLMNQUVWXZKRYP<mark style="background-color: red;">T</mark>OSABCDEFGH                
+                                                                                   17 J LMNQUVWXZKRYPT<mark style="background-color: red;">O</mark>SABCDEFGHI                
                                                                                    <mark style="background-color: red;">18 L MNQUVWXZKRYPTOSABCDEFGHIJ</mark>               
                                                                                    19 M NQUVWXZKRYPTOSABCDEFGHIJL
                                                                                    20 N QUVWXZKRYPTOSABCDEFGHIJLM               
