@@ -44,8 +44,8 @@ Next, this base alphabet is used to create an encryption table, which we refer t
 # How to encode plaintext
 <p style="font-size: smaller; white-space: pre; margin-left: 80px;">
 <pre>
-                                                                                                        01 K RYPTOSABCDEFGHIJLMNQUVWXZ
-                                                                                                        02 R YPTOSABCDEFGHIJLMNQUVWXZK
+                                                                                                  01 K RYPTOSABCDEFGHIJLMNQUVWXZ
+                                                                                                  02 R YPTOSABCDEFGHIJLMNQUVWXZK
 03 Y PTOSABCDEFGHIJLMNQUVWXZKR
 04 P TOSABCDEFGHIJLMNQUVWXZKRY                  
 05 T OSABCDEFGHIJLMNQUVWXZKRYP                
