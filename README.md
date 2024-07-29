@@ -55,7 +55,7 @@ Reformated Keystream:                                                           
                                                                                    07 S ABCDEFGHIJLMNQ<mark style="background-color: red;">U</mark>VWXZKRYPTO
 We get the first letter of our keystream in this case <strong>"L"</strong>, this                    08 A BCDEFGHIJLMNQU<mark style="background-color: red;">V</mark>WXZKRYPTOS                 
 represents our vertical index. The first letter of our plaintext <strong>"I"</strong>                                                    09 B CDEFGHIJLMNQUV<mark style="background-color: red;">W</mark>XZKRYPTOSA               
-                                                                                   10 C DEFGHIJLMNQUVW<mark style="background-color: red;">X</mark>ZKRYPTOSAB               
+is our horizontal index. To encode, we simply go down vertically until we encounter                                                                                   10 C DEFGHIJLMNQUVW<mark style="background-color: red;">X</mark>ZKRYPTOSAB               
                                                                                    11 D EFGHIJLMNQUVWX<mark style="background-color: red;">Z</mark>KRYPTOSABC               
                                                                                    12 E FGHIJLMNQUVWXZ<mark style="background-color: red;">K</mark>RYPTOSABCD
                                                                                    13 F GHIJLMNQUVWXZK<mark style="background-color: red;">R</mark>YPTOSABCDE                
